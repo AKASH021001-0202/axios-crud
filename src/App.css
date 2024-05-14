@@ -1,0 +1,43 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.col-lg-6.form-group {
+  padding: 10px;
+}
+.card1{
+  background: white !important;
+  padding: 50px 50px !important;
+ margin: 10px;
+  box-shadow: 0 0 10px #ddd !important;
+ 
+  align-items: center;
+  justify-content: space-between;
+}
+.bg-sec{
+  background: #f0f8ff;}
+.header-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+td {
+height: 41px;
+  
+  align-items: center;
+  border: 1px solid #ddd !important;
+ 
+}
+.update-card {
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+  width: 100%;
+  justify-content: end;
+}
+
+.modal.fade {
+  background-color: rgba(0, 0, 0, 0.6);
+}
